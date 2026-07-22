@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="Image%20AM.png" alt="AI Engineer Banner" width="100%">
+</p>
+
+
 # Hey there, I’m Zeinab Dast Mozd! 👋
 
 

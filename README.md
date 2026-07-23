@@ -28,6 +28,22 @@ data-driven solutions. I specialize in deploying end-to-end AI apps, combining t
   </a>
 
 ---
+## 🎓 Education
+
+### 🎓 Master of Science (MSc) in Artificial Intelligence
+**University of Essex** 
+
+- 🧠 Specialized in **Artificial Intelligence** with a focus on **Large Language Models (LLMs)**.
+- 📖 **Dissertation:** *Large Language Models (LLMs)*.
+- 🏆 **Award Winner** – Recipient of the **MSc Project Prize** for outstanding master's project.
+- 🚀 Developed advanced AI solutions using Machine Learning, Deep Learning, NLP, and Generative AI.
+
+### 🎓 Bachelor's Degree in Computer Science and Automatic Control
+**Tishreen University** 
+
+- 💻 Built a strong foundation in **Computer Science**, **Software Engineering**, **Programming**, **Algorithms**, **Databases**, and **Automatic Control Systems**.
+
+---
 
 ## 🛠️ Skills Snapshot
 

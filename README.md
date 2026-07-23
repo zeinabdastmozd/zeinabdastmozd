@@ -17,11 +17,15 @@ data-driven solutions. I specialize in deploying end-to-end AI apps, combining t
 
 ## 🚀 About Me
 
-- 🌍 Based in: **United kingdom**
-- 💼 Open to: **Remote, hybrid or global opportunities**
+- 🌍 Based in: **United Kingdom**
+- 💼 Open to: **Remote, Hybrid, or Global Opportunities**
 - 📫 Reach me:
-  [Email](mailto:zienabmohmadaliassad2@gmail.com) |
-  [LinkedIn](https://www.linkedin.com/in/zeinab-dast-mozd-8059aa312/) |
+  <a href="mailto:zienabmohmadaliassad2@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="20" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/zeinab-dast-mozd-8059aa312/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="20" alt="LinkedIn" />
+  </a>
 
 ---
 

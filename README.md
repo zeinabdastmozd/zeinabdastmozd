@@ -89,13 +89,13 @@ data-driven solutions. I specialize in deploying end-to-end AI apps, combining t
 
 ## 📌 Top Projects
 
-- 🩺 **[PROJECT ONE](PROJECT_ONE_URL)**  
+- **[PROJECT ONE](PROJECT_ONE_URL)**  
   Briefly explain what it does, the technologies used and the result.
 
-- 🤖 **[PROJECT TWO](PROJECT_TWO_URL)**  
+-  **[PROJECT TWO](PROJECT_TWO_URL)**  
   Briefly explain what problem the project solves.
 
-- 📊 **[PROJECT THREE](PROJECT_THREE_URL)**  
+-  **[PROJECT THREE](PROJECT_THREE_URL)**  
   Briefly explain the model, application or analysis.=
 ---
 

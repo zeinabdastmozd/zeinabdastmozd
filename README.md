@@ -89,14 +89,14 @@ data-driven solutions. I specialize in deploying end-to-end AI apps, combining t
 
 ## 📌 Top Projects
 
-- **[PROJECT ONE](PROJECT_ONE_URL)**  
-  Briefly explain what it does, the technologies used and the result.
+- **[🤖 llms-cultural-differences-chatbots]([PROJECT_ONE_URL](https://github.com/zeinabdastmozd/llms-cultural-differences-chatbots))**  
+ Do Large Language Models Differentiate and Adapt to Cultural Differences in Chatbots? An External Evaluation of Cultural Sensitivity and Adaptation Using a Novel Method
 
--  **[PROJECT TWO](PROJECT_TWO_URL)**  
-  Briefly explain what problem the project solves.
+-  **[⚡Data-Science]([PROJECT_TWO_URL](https://github.com/zeinabdastmozd/Data-Science))**  
+ Predicting Surplus Energy Using Weather Data: The company proposed notifying nearby customers up to 24 hours in advance when surplus renewable energy could be made available to them at no cost. My role was to leverage AI to assess the feasibility of this innovative concept.
 
--  **[PROJECT THREE](PROJECT_THREE_URL)**  
-  Briefly explain the model, application or analysis.=
+-  **[🧠EEG-Based-Mental-Workload-Classification]([PROJECT_THREE_URL](https://github.com/zeinabdastmozd/EEG-Based-Mental-Workload-Classification))**  
+ Developed a ready-to-use AI-powered application that enables organisations to monitor and assess the level of stress associated with different tasks and workloads, providing actionable insights to support informed decision-making and employee well-being.
 ---
 
 ## 📊 GitHub Statistics

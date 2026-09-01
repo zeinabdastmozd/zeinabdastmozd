@@ -99,19 +99,4 @@ data-driven solutions. I specialize in deploying end-to-end AI apps, combining t
  Developed a ready-to-use AI-powered application that enables organisations to monitor and assess the level of stress associated with different tasks and workloads, providing actionable insights to support informed decision-making and employee well-being.
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=zeinabdastmozd&show_icons=true&hide_border=true"
-    alt="Zeinab's GitHub Statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeinabdastmozd&layout=compact&hide_border=true"
-    alt="Zeinab's Most Used Languages"
-  />
-</p>
-
----
-
 

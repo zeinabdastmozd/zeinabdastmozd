@@ -103,18 +103,18 @@ data-driven solutions. I specialize in deploying end-to-end AI apps, combining t
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true"
+    src="https://github-readme-stats.vercel.app/api?username=zeinabdastmozd&show_icons=true"
     alt="GitHub statistics"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeinabdastmozd&layout=compact"
     alt="Most-used languages"
   />
 </p>
 
 ---
 
-> Every data point is a story waiting to be told—let’s write some great ones together!
+

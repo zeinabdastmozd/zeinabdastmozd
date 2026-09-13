@@ -1,11 +1,9 @@
-<p align="center">
-  <img src="avento.gif" alt="AI Engineer Banner" width="50%" height="20%">
-</p>
-
 
 # Hey there, I’m Zeinab Dast Mozd! 👋
 
-
+<p align="center">
+  <img src="avento.gif" alt="AI Engineer Banner" width="50%" height="20%">
+</p>
 
 ### Harnessing AI to build smarter solutions with real-world impact.
 

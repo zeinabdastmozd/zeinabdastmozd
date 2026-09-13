@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="avento.gif" alt="AI Engineer Banner" width="50%">
+  <img src="avento.gif" alt="AI Engineer Banner" width="100%" height="50%">
 </p>
 
 

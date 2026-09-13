@@ -26,6 +26,12 @@ data-driven solutions. I specialize in deploying end-to-end AI apps, combining t
   <a href="https://www.linkedin.com/in/zeinab-dast-mozd-8059aa312/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="20" alt="LinkedIn" />
   </a>
+  <a href="https://github.com/zeinabdastmozd" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="30" alt="GitHub" />
+  </a>
+  <a href="https://zeinabdastmozd.github.io/zeinab-portfolio/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel" width="30" alt="Portfolio" />
+  </a>
 
 ---
 ## 🎓 Education

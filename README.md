@@ -27,10 +27,10 @@ data-driven solutions. I specialize in deploying end-to-end AI apps, combining t
     <img src="https://skillicons.dev/icons?i=linkedin" width="20" alt="LinkedIn" />
   </a>
   <a href="https://github.com/zeinabdastmozd" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="30" alt="GitHub" />
+    <img src="https://skillicons.dev/icons?i=github" width="20" alt="GitHub" />
   </a>
   <a href="https://zeinabdastmozd.github.io/zeinab-portfolio/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vercel" width="30" alt="Portfolio" />
+    <img src="https://skillicons.dev/icons?i=vercel" width="20" alt="Portfolio" />
   </a>
 
 ---
